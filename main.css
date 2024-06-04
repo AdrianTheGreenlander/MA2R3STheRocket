@@ -1,16 +1,16 @@
 @font-face {
     font-family: 'Merriweather';
-    src: url('./font/Merriweather-Regular.ttf');
+    src: url('Merriweather-Regular.ttf');
 }
 
 @font-face {
     font-family: 'Danfo';
-    src: url('./font/Danfo/Danfo-Regular-VariableFont_ELSH.ttf');
+    src: url('Danfo-Regular-VariableFont_ELSH.ttf');
 }
 
 @font-face {
     font-family: 'playfair';
-    src: url(./font/PlayfairDisplay-VariableFont_wght.ttf);
+    src: url('PlayfairDisplay-VariableFont_wght.ttf');
 }
 
 html {background-color: black}
